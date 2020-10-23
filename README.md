@@ -17,11 +17,3 @@ András Szilágyi (1,2,3); Péter Szabó (1,4); Mauro Santos (1,5); Eörs Szathm
 PLOS Computational Biology (citation data and URL will be inserted here)
 
 Note: The code available from this repository is provided without any warranty or liability.
-
-
-
-### Usage:
-
-To build the program under linux or any compatible system using the GCC toolchain, issue the command `make` in the source directory.
-
-```
