@@ -1,4 +1,7 @@
 Repository for software described in
+
+Szilágyi A, Szabó P, Santos M, Szathmáry E (2020) Phenotypes to remember: Evolutionary developmental memory capacity and robustness. PLoS Comput Biol 16(11): e1008425. https://doi.org/10.1371/journal.pcbi.1008425
+
 # Phenotypes to remember: Evolutionary developmental memory capacity and robustness
 
 András Szilágyi (1,2,3); Péter Szabó (1,4); Mauro Santos (1,5); Eörs Szathmáry (1,2,3)
@@ -13,9 +16,5 @@ András Szilágyi (1,2,3); Péter Szabó (1,4); Mauro Santos (1,5); Eörs Szathm
 
 5. Department de Genètica i de Microbiologia, Grup de Genòmica, Bioinformàtica i Biologia Evolutiva (GBBE), Universitat Autonòma de Barcelona, 08193 Bellaterra (Barcelona), Spain
 
-
-PLOS Computational Biology
-
-https://doi.org/10.1371/journal.pcbi.1008425
 
 Note: The code available from this repository is provided without any warranty or liability.
