@@ -15,6 +15,7 @@ András Szilágyi (1,2,3); Péter Szabó (1,4); Mauro Santos (1,5); Eörs Szathm
 
 
 PLOS Computational Biology
+
 https://doi.org/10.1371/journal.pcbi.1008425
 
 Note: The code available from this repository is provided without any warranty or liability.
