@@ -14,6 +14,6 @@ András Szilágyi (1,2,3); Péter Szabó (1,4); Mauro Santos (1,5); Eörs Szathm
 5. Department de Genètica i de Microbiologia, Grup de Genòmica, Bioinformàtica i Biologia Evolutiva (GBBE), Universitat Autonòma de Barcelona, 08193 Bellaterra (Barcelona), Spain
 
 
-PLOS Computational Biology (citation data and URL will be inserted here)
+PLOS Computational Biology (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226)
 
 Note: The code available from this repository is provided without any warranty or liability.
